@@ -8,9 +8,12 @@ The repo shows how to implement CMU EntraID (sign-in with CMU Account) in your o
 
 1. Run `npm install` command in your terminal.
 2. Copy `env.template` to `.env` file
-3. Edit your `CLIENT ID` and `CLIENT SECRET` in the `.env` file.
-4. Run `npm run dev` command in your terminal.
+3. Edit the following variables in the `.env` file accordingly.
+   - `CLIENT ID`
+   - `CLIENT SECRET`
+   - `CMU_ENTRAID_REDIRECT_URL`
+5. Run `npm run dev` command in your terminal.
 
 ## Warning
 
-This repo include .env file to kickstart required variables for you. But in practice, you should not include .env in repository at all!
+Do not push `.env` file to any git repositories. You should not include `.env` in repository at all!
