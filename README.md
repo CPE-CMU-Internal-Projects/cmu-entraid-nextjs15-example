@@ -2,7 +2,7 @@
 
 The repo shows how to implement CMU EntraID (sign-in with CMU Account) in your own web app using Next.js + TypeScript. We get CMU basic info (like student name, student id,..) after signing in then we use this information to create our own session.
 
-[More information about CMU EntraID]()
+[More information about CMU EntraID](https://docs.google.com/document/d/1E4NURlMTZrbzK-42LH6o5o4LfbPdLd2us87wK10vdIc/edit?usp=sharing)
 
 ## Please do the following steps before you start
 
